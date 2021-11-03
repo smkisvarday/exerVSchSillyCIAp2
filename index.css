@@ -9,10 +9,10 @@ h2 {
     text-align: center;
 }
 
-.header {
-    color: darkgreen;
-}
-
 .text {
     font-size: 25px;
+}
+
+.header {
+    color: darkgreen;
 }
