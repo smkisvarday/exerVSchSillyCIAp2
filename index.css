@@ -8,3 +8,12 @@ h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
 }
+
+.header {
+    color: darkgreen;
+}
+
+
+.text{
+    font-size: 25px;
+}
