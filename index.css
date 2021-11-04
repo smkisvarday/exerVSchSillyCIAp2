@@ -12,3 +12,21 @@ h2 {
 .text {
     font-size: 25px;
 }
+
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.upper {
+    text-transform: uppercase;
+}
+
+img{
+    float: left;
+    margin: 10px;
+}
